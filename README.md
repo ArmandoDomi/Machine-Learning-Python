@@ -5,3 +5,4 @@
  erg3 : Perceptron,
  erg4 : Multilayer Perceptron,
  erg5 : Support Vector Machine,
+ erg6 : Naive Bayes 
